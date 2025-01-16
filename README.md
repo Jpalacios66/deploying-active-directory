@@ -71,7 +71,7 @@ Right click Jane and go to properties. Go to member of and select add. Type admi
 Log off and log back in as the new user
 </p>
 <br />
-<img src="ResourceGroup.png" height="80%" width="80%" 
+<img src="Client1.png" height="80%" width="80%" 
 </p>
 <p>
 Join Client1 to domain
