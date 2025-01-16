@@ -25,7 +25,7 @@
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="ResourceGroup.png" height="80%" width="80%" 
+<img src="1AD.png" height="80%" width="80%" 
 </p>
 <p>
 Log into dc-1 and go to Server Manager and click add features. Click next through the first 3 tabs and when you get to Server roles check the box that is marked Active DIrectory Domain Features. Click next through the next 2 tabs and when you get to Confirmation select the box that says restart if neccesarry and click yes then press install.
