@@ -15,12 +15,12 @@
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
--Use Server manager to install Active Directory
--Promote dc-1 to Domain Controller
--Add new Orgizational Units to ACtive Directory
--Create a New User
--Add New User to Group
--Join Client1 to domain
+- Use Server manager to install Active Directory
+- Promote dc-1 to Domain Controller
+- Add new Orgizational Units to ACtive Directory
+- Create a New User
+- Add New User to Group
+- Join Client1 to domain
 
 <h2>Deployment and Configuration Steps</h2>
 
