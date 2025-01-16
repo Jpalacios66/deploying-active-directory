@@ -33,29 +33,22 @@ Log into dc-1 and go to Server Manager and click add features. Click next throug
 <br />
 
 <p>
-<img src="StaticIP.png" height="80%" width="80%" 
+<img src="ServerM.png" height="80%" width="80%" 
 </p>
 <p>
 Go back to dc-1 and go back to server manager on the right corner click the flag and select "Promote this server to a domain controller". Click next on the next 4 tabs and select Install. It should restart on its own after it has been installed.
 </p>
 <br />
-
 <p>
-<img src="VirtualMachines.png" height="80%" width="80%" 
+<img src="Client1.png" height="80%" width="80%"
 </p>
 <p>
-Log back in to dc-1 (make sure to login as a domain user)
-</p>
-<br />
-<p>
-<img src="DNS.png" height="80%" width="80%"
-</p>
-<p>
+  Log back in to dc-1 (make sure to login as a domain user)
 Go to Active Directory Users and Computers right click mydomain.com and add New Origzational Unit (_EMPLOYEES,_ADMINS)
 </p>
 <br />
 <p>
-<img src="ResourceGroup.png" height="80%" width="80%" 
+<img src="newuser.png" height="80%" width="80%" 
 </p>
 <p>
 Create a new employee. 
@@ -63,7 +56,7 @@ Go to _ADMIN and right click folder and go to new then user, and create new user
 </p>
 <br />
 <p>
-<img src="ResourceGroup.png" height="80%" width="80%" 
+<img src="Janegroup.png" height="80%" width="80%" 
 </p>
 <p>
 Add new user to _ADMIN
@@ -71,10 +64,10 @@ Right click Jane and go to properties. Go to member of and select add. Type admi
 Log off and log back in as the new user
 </p>
 <br />
-<img src="Client1.png" height="80%" width="80%" 
+<img src="Domain.png" height="80%" width="80%" 
 </p>
 <p>
 Join Client1 to domain
-Log into Client1 and Right click the start and click system Then scroll down to Rename this PC(advanced) then cick change
+Log into Client1 and Right click the start and click system Then scroll down to Rename this PC(advanced) then click change.
 </p>
 <br />
